@@ -1,4 +1,4 @@
-# one-hot-encoding
+# One-hot-encoding
 The sample file one_hot.cpp contains drive function to encode category data using one-hot encoding scheme. 
 
 # How to run the script in linux?
