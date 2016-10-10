@@ -7,3 +7,6 @@ g++ one_hot.cpp -o onehot -larmadillo
 to execute
 
 ./onehot test.csv
+
+# Prerequistes
+Install armadillo and boost libraries from their websites.
